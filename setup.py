@@ -1,9 +1,9 @@
 import setuptools
-from prototype import __version__
+from declip import __version__
 
 
 setuptools.setup(
-    name='Spring-Prototype',
+    name='DeCLIP',
     version=__version__,
     author='Yuan Kun',
     author_email='yuankun@sensetime.com',

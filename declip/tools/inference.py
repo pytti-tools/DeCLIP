@@ -14,11 +14,11 @@ import matplotlib.pyplot as plt
 from easydict import EasyDict
 from torch.autograd import Variable
 
-from prototype.solver.cls_solver import ClsSolver
-from prototype.utils.dist import link_dist
-from prototype.utils.misc import makedir, create_logger, get_logger, modify_state
-from prototype.data import build_imagenet_test_dataloader
-from prototype.data import build_custom_dataloader
+from declip.solver.cls_solver import ClsSolver
+from declip.utils.dist import link_dist
+from declip.utils.misc import makedir, create_logger, get_logger, modify_state
+from declip.data import build_imagenet_test_dataloader
+from declip.data import build_custom_dataloader
 
 
 class Inference(ClsSolver):

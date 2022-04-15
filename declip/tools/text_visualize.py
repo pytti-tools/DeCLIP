@@ -1,6 +1,6 @@
-from prototype.utils.misc import parse_config, load_state_model
-from prototype.utils.dist import  link_dist, DistModule
-from prototype.model import model_entry
+from declip.utils.misc import parse_config, load_state_model
+from declip.utils.dist import  link_dist, DistModule
+from declip.model import model_entry
 
 import torch
 
