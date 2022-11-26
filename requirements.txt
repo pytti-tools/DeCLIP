@@ -119,7 +119,7 @@ parso==0.7.0
 patch==1.16
 patch-ng==1.17.4
 pathy==0.4.0
-pavi==1.4.17
+#pavi==1.4.17
 petrel-oss-sdk===v2.1.0-0-g5ae3dc0-HEAD
 pexpect==4.8.0
 pickleshare==0.7.5
