@@ -107,7 +107,7 @@ node-semver==0.6.1
 nodeenv==1.5.0
 notebook==6.0.1
 numpy==1.17.3
-nvidia-dali==0.14.0
+#nvidia-dali==0.14.0
 object-detection==2.0
 onnx==1.6.0
 opencv-python==4.1.1.26
