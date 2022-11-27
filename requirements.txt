@@ -198,8 +198,8 @@ tinycss==0.4
 tinycss2==1.1.0
 tokenizers==0.10.2
 toml==0.10.2
-torch==1.5.0+cu101
-torchvision==0.6.1
+#torch==1.5.0+cu101
+#torchvision==0.6.1
 tornado==6.0.4
 tqdm==4.37.0
 traitlets==4.3.3
