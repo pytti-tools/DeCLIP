@@ -184,7 +184,7 @@ smart-open==3.0.0
 sniffio==1.2.0
 spacy==3.0.5
 #spring-aux===0.5.1.develop.6c0be108
-SpringCommonInterface==1.3.0
+#SpringCommonInterface==1.3.0
 springvision==1.1.0
 tensorboard==2.0.0
 tensorboardX==1.8
